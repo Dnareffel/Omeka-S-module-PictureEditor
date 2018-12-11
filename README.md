@@ -9,7 +9,7 @@ to enable users to modify picture.
 Notes
 -----
 
-This module is still in devlopement and it's not working yet, all the feature coming below are not implemented.
+This module is still in developement and it's not working yet, all the feature coming below are not implemented.
 
 
 Installation
@@ -84,13 +84,14 @@ and, more generally, to use and operate it in the same conditions of security.
 
 This Agreement may be freely reproduced and published, provided it is not
 altered, and that no provisions are either added or removed herefrom.
-.
+
 
 
 Contact
 -------
 
 Current maintainers of the module for Omeka S:
+
 * Aurélien Le Ferrand (see [Aurelien-LF])
 
 
