@@ -41,6 +41,7 @@ How it works (TODO)
 -----------
 
 - When an image is imported in the creation of an item add an option 'Picture Editor' to use the module.
+[screenshot1]
 
 - In editor mode a window appears with the picture imported in it.
 
@@ -95,7 +96,7 @@ Copyright
 
 * Copyright Aurélien Le Ferrand, 2018-2019
 
-[screenshot1] 
+[screenshot1]: https://github.com/Dnareffel/Omeka-S-module-PictureEditor/blob/master/img/step1.png
 
 [leaflet.js]: https://leafletjs.com/reference-1.3.4.html
 
