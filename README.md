@@ -100,6 +100,14 @@ Copyright
 
 * Copyright Aurélien Le Ferrand, 2018-2019
 
+[CeCILL v2.1]: https://www.cecill.info/licences/Licence_CeCILL_V2.1-en.html
+
+[GNU/GPL]: https://www.gnu.org/licenses/gpl-3.0.html
+
+[FSF]: https://www.fsf.org
+
+[OSI]: http://opensource.org
+
 [screenshot1]: https://github.com/Dnareffel/Omeka-S-module-PictureEditor/blob/master/img/step1.png
 
 [screenshot2]:https://github.com/Dnareffel/Omeka-S-module-PictureEditor/blob/master/img/step2.png
