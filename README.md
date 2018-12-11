@@ -41,7 +41,7 @@ How it works (TODO)
 -----------
 
 - When an image is imported in the creation of an item add an option 'Picture Editor' to use the module.
-[screenshot1]
+![screenshot1]
 
 - In editor mode a window appears with the picture imported in it.
 
